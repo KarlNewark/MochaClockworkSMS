@@ -11,7 +11,7 @@ npm pack
 Install globally with 
 
 ```sh
-npm install -g "packed fild path"
+npm install -g "packed file path"
 ```
 
 Run Mocha tests and specify reporter 
